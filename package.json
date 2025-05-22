@@ -1,0 +1,22 @@
+{
+  "name": "node_project",
+  "version": "1.0.0",
+  "description": "this is sample project for node js",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "dev": "nodemon app.js"
+  },
+  "keywords": [
+    "Jawahar"
+  ],
+  "author": "Jawahar",
+  "license": "ISC",
+  "dependencies": {
+    "ejs": "^3.1.10",
+    "express": "^5.1.0"
+  },
+  "devDependencies": {
+    "nodemon": "^3.1.10"
+  }
+}
